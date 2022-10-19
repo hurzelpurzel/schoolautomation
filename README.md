@@ -15,3 +15,4 @@ https://docs.microsoft.com/en-us/powershell/module/teams/new-teamsapp?view=teams
 
 
 https://learn.microsoft.com/en-us/microsoftteams/scripts/powershell-script-create-teams-from-managers-new-teams
+https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-managing-teams
