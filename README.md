@@ -11,6 +11,7 @@ Lösungsidee: Mittels Azure DevOps/Logic Apps und/oder Powershell umsetzen
 
 https://morgantechspace.com/2021/12/add-bulk-users-to-microsoft-teams-from-csv-using-powershell.html
 https://woshub.com/read-write-excel-files-powershell/
+https://www.windowspro.de/roland-eich/microsoft-teams-ueber-powershell-verwalten-teams-anlegen-aendern-loeschen-benutzer
 
 https://docs.microsoft.com/en-us/microsoftteams/archive-or-delete-a-team
 https://docs.microsoft.com/en-us/powershell/module/teams/new-teamsapp?view=teams-ps
