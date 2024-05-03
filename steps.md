@@ -33,3 +33,19 @@ Connect-MgGraph -Scopes "User.ReadWrite.All","Group.ReadWrite.All"
 
 3.) Script scripts/accounts.ps1 ausführen
 
+# Teams mittels CSV anlegen
+ 
+1.) Daten in einem CSV File zur Verfügung stellen. Format muss wie in [testdata/teams.csv](testdata/teams.csv) sein.
+
+2.) Login in der Teams Verwaltung
+
+3.) Script scripts/teams.ps1 ausführen
+
+# Teammember mittels CSV hinzufügen
+ 
+1.) Daten in einem CSV File zur Verfügung stellen. Format muss wie in [testdata/teammember.csv](testdata/teammember.csv) sein.
+
+2.) Login in der Teams Verwaltung
+
+3.) Script scripts/teammember.ps1 ausführen
+
