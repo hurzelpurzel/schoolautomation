@@ -5,7 +5,7 @@ Ziel ist es Powershell scripte zur Verfügung zu stellen um MS Teams Prozesse zu
 Idee: 
 
 Beim Schuljahreswechsel sollen gemäss Schülerlisten 
-  * neund Accounts angelegt werden
+  * neue Accounts angelegt werden
   * die neuen Teams per Fach angelegt werden.
   * alte Accounts & Teams automatisch archiviert werden 
 
