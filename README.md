@@ -7,12 +7,12 @@ Idee:
 Beim Schuljahreswechsel sollen gemäss Schülerlisten 
   * neue Accounts angelegt werden
   * die neuen Teams per Fach angelegt werden.
-  * alte Accounts & Teams automatisch archiviert werden 
+  * ggf. alte Accounts & Teams automatisch archiviert werden 
 
 
-Ziel: Die Lehrer von  der manuellen Verwaltung zu entlasten ohne die Inhalte zu verlieren
+Ziel: Die Lehrer von  der manuellen Verwaltung zu entlasten 
 
 Lösungsidee: Powershell Skripte
 
-
+Unter [steps.md](steps.md) findet man eine kleine Bedienungsanleitung für die realisierten Funktionen.
 
